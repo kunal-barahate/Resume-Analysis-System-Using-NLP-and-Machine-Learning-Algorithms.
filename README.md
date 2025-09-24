@@ -1,5 +1,8 @@
 # Resume-Analysis-System-Using-NLP-and-Machine-Learning-Algorithms.
 
+
+Features:-
+
 1. PDF Resume Upload
 
      a. Upload resumes in PDF format.
