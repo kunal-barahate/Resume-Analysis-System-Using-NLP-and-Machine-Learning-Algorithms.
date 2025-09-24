@@ -9,7 +9,7 @@ Features:-
 
      b. Extracts text using pdfplumber for accurate parsing.
 
-2.Job Description Input
+2. Job Description Input
 
       a.Paste or type the job description for analysis.
 
@@ -43,7 +43,7 @@ Features:-
 
       c. Styled buttons, cards, and loading spinner for better UX.
 
-6.Secure and Configurable
+6. Secure and Configurable
 
       a. Uses Google Gemini Pro API for natural language processing.
 
