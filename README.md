@@ -12,36 +12,36 @@
 
 3. AI-Powered Resume Analysis (Gemini Pro)
 
-      a.Compares resume against job description.
+      a. Compares resume against job description.
 
-      b.Generates ATS match score (0–100).
+      b. Generates ATS match score (0–100).
 
-      b.Provides missing keyword detection.
+      b. Provides missing keyword detection.
 
-      c.Suggests relevant skills for improvement.
+      c. Suggests relevant skills for improvement.
 
-      d.Gives professional resume feedback.
+      d. Gives professional resume feedback.
 
-      e.Identifies skill gaps.
+      e. Identifies skill gaps.
 
-      f.Suggests possible job roles matching resume.
+      f. Suggests possible job roles matching resume.
 
 4. Optimized Resume Generation
 
-      a.AI-enhanced resume rewriting for ATS compliance.
+      a. AI-enhanced resume rewriting for ATS compliance.
 
-      b.Downloadable as a text file.
+      b. Downloadable as a text file.
 
 5. Interactive Streamlit Web App
 
-      a.Modern, user-friendly interface with animations & glassmorphism design.
+      a. Modern, user-friendly interface with animations & glassmorphism design.
 
-      b.Smooth navigation with sidebar pages (Home & Resume Analysis).
+      b. Smooth navigation with sidebar pages (Home & Resume Analysis).
 
-      c.Styled buttons, cards, and loading spinner for better UX.
+      c. Styled buttons, cards, and loading spinner for better UX.
 
 6.Secure and Configurable
 
-      a.Uses Google Gemini Pro API for natural language processing.
+      a. Uses Google Gemini Pro API for natural language processing.
 
-      b.API key configurable via environment variable or direct input.
+      b. API key configurable via environment variable or direct input.
